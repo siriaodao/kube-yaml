@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: conf_skydns
+data:
+  slb_ip: 192.168.50.240
+  etcd_ip: 
